@@ -1,0 +1,67 @@
+body{
+    background-color: #9370db;
+}
+.leftdiv{
+    float:left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.rightdiv{
+    float: right;
+    margin-left: 120px;
+    margin-top: -150px;
+    margin-bottom: 30px;
+    height: 640px;
+    width:500px;
+}
+form{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.firstparagraph{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    padding-right: 50px;
+}
+.secondparagraph{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.thirdparagraph{
+    font-size: 30px;
+    color: #9370db;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 200px;
+    padding-top: 20px;
+}
+.input{
+    width:350px;
+    height:40px;
+    
+}
+.login{
+    width:360px;
+    height:50px;
+    background-color: #9370db;
+    border-radius: 10px;
+}
+.forgotpassword{
+    padding-left:120px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.signup{
+    background-color: white;
+    font-size: 20px;
+    color:#9370db;
+    width:360px;
+    height:44px;
+    border-radius: 10px;
+    border-color:#9370db;
+}
+.fourthparagraph{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
